@@ -1,7 +1,7 @@
 import { FlexCntAlgnCntr, FlexCntAlgnCntrSB } from "../styles/FlexStyles";
 import { Avatar } from "@mui/material";
 import BasicButton from "../buttons/BasicButton";
-import StyledButton from "../styles/buttons/StyledButton";
+import StyledCommonButton from "../styles/buttons/StyledCommonButton";
 import { PostProps } from "../../shared/customTypes";
 import StyledRightSide from "../styles/detail/StyledRightSide";
 
